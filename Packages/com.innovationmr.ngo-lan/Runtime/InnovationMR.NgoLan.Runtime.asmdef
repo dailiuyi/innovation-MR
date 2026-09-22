@@ -1,0 +1,16 @@
+{
+  "name": "InnovationMR.NgoLan.Runtime",
+  "rootNamespace": "InnovationMR.NgoLan",
+  "references": [
+    "Unity.Netcode.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": ["WebGL"],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

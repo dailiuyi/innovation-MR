@@ -1,0 +1,17 @@
+{
+  "name": "InnovationMR.NgoLan.Tests.EditMode",
+  "rootNamespace": "InnovationMR.NgoLan.Tests",
+  "references": [
+    "InnovationMR.NgoLan.Runtime"
+  ],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

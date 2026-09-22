@@ -1,0 +1,21 @@
+{
+  "name": "com.innovationmr.ngo-lan",
+  "version": "0.1.0",
+  "displayName": "Innovation MR NGO LAN",
+  "description": "Reusable Netcode for GameObjects session lifecycle and UDP LAN discovery for MR/Unity projects.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.netcode.gameobjects": "2.12.0"
+  },
+  "samples": [
+    {
+      "displayName": "Basic LAN Lobby",
+      "description": "Minimal UI-independent host, browse and join wiring.",
+      "path": "Samples~/BasicLanLobby"
+    }
+  ],
+  "keywords": ["netcode", "ngo", "lan", "discovery", "multiplayer", "mr"],
+  "author": {
+    "name": "Innovation MR"
+  }
+}
